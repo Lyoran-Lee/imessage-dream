@@ -1,0 +1,19 @@
+{
+  "id": "/imessage-dream/",
+  "name": "Dream 灵性探索记录",
+  "short_name": "Dream",
+  "description": "Dream 灵性探索记录 — 灵性恋人聊天与探索记录应用",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "/imessage-dream/",
+  "scope": "/imessage-dream/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#000000",
+  "categories": ["lifestyle", "social", "entertainment"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
